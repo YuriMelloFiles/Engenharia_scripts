@@ -1,2 +1,3 @@
 # Engenharia_scripts
-Scripts desenvolvidos por mim para estudantes de engenharia 
+
+- 👷‍♂️ Scripts desenvolvidos com a finalidade de agilizar o cálculo em problemas comuns de engenharia.
