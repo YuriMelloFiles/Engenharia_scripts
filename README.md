@@ -1,3 +1,3 @@
 # Engenharia_scripts
 
-- 👷‍♂️ Scripts desenvolvidos com a finalidade de agilizar o cálculo em problemas comuns de engenharia.
+- 👷‍♂️ Scripts desenvolvidos com a finalidade de agilizar o cálculo em problemas comuns na engenharia.
